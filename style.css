@@ -233,3 +233,24 @@ footer .nav-link {
   font-weight: 400;
   margin: 0 48px auto;
 }
+
+.table {
+  width: 20%;
+  max-width: 300px;
+}
+
+.table__row {
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 1px solid black;
+  padding: 10px 0;
+}
+
+.sneaker-big__additional {
+  display: flex;
+  justify-content: space-around;
+}
+
+.sneaker-big__text {
+  max-width: 50%;
+}
